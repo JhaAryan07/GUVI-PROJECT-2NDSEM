@@ -25,7 +25,8 @@ MySQL (via JDBC)
 NetBeans IDE (Ant-based)
 
 MVC Architecture
-)
+
+
 **📁 Folder Structure**
 
 ![image](https://github.com/user-attachments/assets/944e8be5-a085-48ee-92aa-2a6e2e209a1e)
