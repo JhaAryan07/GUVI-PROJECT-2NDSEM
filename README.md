@@ -1,8 +1,8 @@
-**📘 Smart Attendance Management System**
+## **📘 Smart Attendance Management System**
 
 A Java Swing-based desktop application to manage attendance, built with Java, MySQL, and the MVC architecture.
 
-**🚀 Features**
+## **🚀 Features**
 
 🔐 User authentication (Login)
 
@@ -16,7 +16,7 @@ A Java Swing-based desktop application to manage attendance, built with Java, My
 
 🧱 Clean modular code (DAO, Model, View)
 
-**🛠 Tech Stack**
+## **🛠 Tech Stack**
 
 Java (Swing)
 
@@ -27,7 +27,7 @@ NetBeans IDE (Ant-based)
 MVC Architecture
 
 
-**📁 Folder Structure**
+## **📁 Folder Structure**
 
 ![image](https://github.com/user-attachments/assets/944e8be5-a085-48ee-92aa-2a6e2e209a1e)
 
@@ -52,7 +52,7 @@ CRUD OPERATION
 ![Screenshot 2025-05-25 152517](https://github.com/user-attachments/assets/6a66b1df-07bd-48e6-aff2-6bf1168f1d1b)
 
 
-**AUTHOR**
+## **AUTHOR**
 [JhaAryan07](https://github.com/JhaAryan07)
 
 
